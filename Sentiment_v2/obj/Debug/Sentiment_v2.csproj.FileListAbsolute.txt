@@ -1,0 +1,5 @@
+C:\Sentiment Analysis\C# Code\Sentiment_v2\Sentiment_v2\bin\Debug\Sentiment_v2.exe
+C:\Sentiment Analysis\C# Code\Sentiment_v2\Sentiment_v2\bin\Debug\Sentiment_v2.pdb
+C:\Sentiment Analysis\C# Code\Sentiment_v2\Sentiment_v2\obj\Debug\Sentiment_v2.exe
+C:\Sentiment Analysis\C# Code\Sentiment_v2\Sentiment_v2\obj\Debug\Sentiment_v2.pdb
+C:\Sentiment Analysis\C# Code\Sentiment_v2\Sentiment_v2\obj\Debug\Sentiment_v2.csprojResolveAssemblyReference.cache
